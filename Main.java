@@ -1,5 +1,5 @@
-// Name: Pooja Ramdas
-// PRN: 23070126091
+// Name: Rithikaa Redde
+// PRN: 23070126101
 // Batch: AIML B-1 (2023-2027)
 
 // Main.java
